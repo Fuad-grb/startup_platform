@@ -31,7 +31,6 @@ const Home = () => {
           </div>
         </div>
 
-        {/* Rest of the component remains the same */}
       </main>
     </div>
   );
